@@ -1,4 +1,4 @@
 webscraper
 ==========
 
-This is a very basic Web scraper 
+This is a basic Webscraper I've build for fun.
